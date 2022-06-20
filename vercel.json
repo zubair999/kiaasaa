@@ -1,0 +1,10 @@
+{
+	"env": {
+		"NEXT_PUBLIC_REST_API_ENDPOINT": "https://ekiaasa.revopions.com/v1"
+	},
+	"build": {
+		"env": {
+			"NEXT_PUBLIC_REST_API_ENDPOINT": "https://ekiaasa.revopions.com/v1"
+		}
+	}
+}
