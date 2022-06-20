@@ -7,7 +7,7 @@ import Layout from "@components/layout/layout";
 import Subscription from "@components/common/subscription";
 import ShopDetail from "@components/shop/shop-detail";
 import { ShopFilters } from "@components/shop/filters";
-import StickyBox from "react-sticky-box";
+// import StickyBox from "react-sticky-box";
 import { ProductGrid } from "@components/product/product-grid";
 import SearchTopBar from "@components/shop/top-bar";
 import ActiveLink from "@components/ui/active-link";

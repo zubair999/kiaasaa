@@ -1,6 +1,6 @@
 import react, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import StickyBox from "react-sticky-box";
+// import StickyBox from "react-sticky-box";
 import Text from "@components/ui/text";
 import { useRouter } from "next/router";
 import Image from "next/image";
